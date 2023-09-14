@@ -1,0 +1,43 @@
+[{
+   "title":"english",
+   "title2":"english",
+   "language_code":"EN",
+   "country_code":"US",
+   "local":"en_us","image":"https://raw.githubusercontent.com/LunaGao/flag_flutter/988b830bca32a7552e4f75a5795e16f7cecf2958/res/1x1/us.svg",
+   "file_name":"en_us.json"
+},{
+   "title":"hindi",
+   "title2":"hindi",
+   "language_code":"HI",
+   "country_code":"IN",
+   "local":"hi_in","image":"https://raw.githubusercontent.com/LunaGao/flag_flutter/988b830bca32a7552e4f75a5795e16f7cecf2958/res/1x1/in.svg",
+   "file_name":"hi_in.json"
+},{
+   "title":"german",
+   "title2":"german",
+   "language_code":"de",
+   "country_code":"DE",
+   "local":"de_de","image":"https://raw.githubusercontent.com/LunaGao/flag_flutter/988b830bca32a7552e4f75a5795e16f7cecf2958/res/1x1/de.svg",
+   "file_name":"de_de.json"
+},{ "title":"greek", "title2":"greek", "language_code":"el", "country_code":"GR", "local":"el_gr","image":"https://raw.githubusercontent.com/LunaGao/flag_flutter/988b830bca32a7552e4f75a5795e16f7cecf2958/res/1x1/gr.svg", "file_name":"el_gr.json" },{ "title":"spanish", "title2":"spanish", "language_code":"es", "country_code":"ES", "local":"es_es","image":"https://raw.githubusercontent.com/LunaGao/flag_flutter/988b830bca32a7552e4f75a5795e16f7cecf2958/res/1x1/es.svg", "file_name":"es_es.json" },{
+   "title":"french",
+   "title2":"french",
+   "language_code":"fr",
+   "country_code":"GF",
+   "local":"fr_gf","image":"https://raw.githubusercontent.com/LunaGao/flag_flutter/988b830bca32a7552e4f75a5795e16f7cecf2958/res/1x1/fr.svg",
+   "file_name":"fr_gf.json"
+},{
+   "title":"hebrew",
+   "title2":"hebrew",
+   "language_code":"he",
+   "country_code":"IW",
+   "local":"he_iw","image":"https://raw.githubusercontent.com/LunaGao/flag_flutter/988b830bca32a7552e4f75a5795e16f7cecf2958/res/1x1/il.svg",
+   "file_name":"he_iw.json"
+},{
+   "title":"italian",
+   "title2":"italian",
+   "language_code":"it",
+   "country_code":"IT",
+   "local":"it_it","image":"https://raw.githubusercontent.com/LunaGao/flag_flutter/988b830bca32a7552e4f75a5795e16f7cecf2958/res/1x1/it.svg",
+   "file_name":"it_it.json"
+}]

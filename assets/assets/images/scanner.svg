@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="321" height="320" viewBox="0 0 321 320">
+    <g id="Rectangle_1026" data-name="Rectangle 1026" transform="translate(10.001 10)" fill="none" stroke="#cbc7c7" stroke-linejoin="round" stroke-width="1">
+        <rect width="300" height="300" stroke="none"/>
+        <rect x="0.5" y="0.5" width="299" height="299" fill="none"/>
+    </g>
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M-7976.954,50H-7985V0h50V7.609h-41.953Z" transform="translate(7985.001)" fill="#4c76fe"/>
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M8.047,0H0V50H50V42.391H8.047Z" transform="translate(321 50) rotate(180)" fill="#4c76fe"/>
+    <path id="Subtraction_3" data-name="Subtraction 3" d="M8.047,50H0V0H50V7.609H8.047Z" transform="translate(321 320) rotate(180)" fill="#4c76fe"/>
+    <path id="Subtraction_4" data-name="Subtraction 4" d="M8.047,0H0V50H50V42.391H8.047Z" transform="translate(0 270)" fill="#4c76fe"/>
+</svg>

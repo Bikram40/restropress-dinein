@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="27" viewBox="0 0 26 27">
+  <rect id="Rectangle_201" data-name="Rectangle 201" width="26" height="27" rx="6" fill="#5653d4"/>
+  <g id="menu_2_" data-name="menu (2)" transform="translate(6 1.331)">
+    <path id="Path_1480" data-name="Path 1480" d="M24.846,45.107H16.331a1.065,1.065,0,0,0,0,2.13h8.516a1.065,1.065,0,0,0,0-2.13Z" transform="translate(-11.807 -28.955)" fill="#fff"/>
+    <path id="Path_1481" data-name="Path 1481" d="M24.846,26.4H16.331a1.065,1.065,0,0,0,0,2.13h8.516a1.065,1.065,0,0,0,0-2.13Z" transform="translate(-11.807 -14.488)" fill="#fff"/>
+    <path id="Path_1482" data-name="Path 1482" d="M16.331,9.827h8.516a1.065,1.065,0,0,0,0-2.13H16.331a1.065,1.065,0,0,0,0,2.13Z" transform="translate(-11.807 -0.022)" fill="#fff"/>
+    <circle id="Ellipse_74" data-name="Ellipse 74" cx="1.081" cy="1.081" r="1.081" transform="translate(0 7.669)" fill="#fff"/>
+    <circle id="Ellipse_75" data-name="Ellipse 75" cx="1.081" cy="1.081" r="1.081" transform="translate(0 11.898)" fill="#fff"/>
+    <circle id="Ellipse_76" data-name="Ellipse 76" cx="1.081" cy="1.081" r="1.081" transform="translate(0 16.136)" fill="#fff"/>
+  </g>
+</svg>
